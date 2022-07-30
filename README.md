@@ -8,5 +8,5 @@ It basically consists of 3 parts.
 3. Questions and solutions
 
 
-You can find the dataset down below:
+The dataset: 
 https://www.kaggle.com/datasets/luiscorter/netflix-original-films-imdb-scores
